@@ -1,0 +1,8 @@
+spring:
+  thymeleaf:
+    #热部署静态文件
+    cache: false
+    #使用HTML5标准
+    mode: HTML5
+    #页面编码
+    encoding: UTF-8
